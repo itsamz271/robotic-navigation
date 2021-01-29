@@ -21,6 +21,6 @@ My Youtube Demonstration Video: https://www.youtube.com/watch?v=SAAhVrnk0KA&list
 ### Run RVIZ
 `roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=path/to/project/building101_gf.yaml`
 ### Run the project script
-Make sure the script is an executable
+Make sure the script is an executable  
 `rosrun your_package_name building101_nav2.0.py`
 
