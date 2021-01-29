@@ -5,6 +5,12 @@ This project allows the user to simulate that functionality using turtlebot3.
 
 My Youtube Demonstration Video: https://www.youtube.com/watch?v=SAAhVrnk0KA&list=PL8coWtscjc1G1n_14U2CBn_1LRjkEF5g0&index=2&t=91s
 
+# Files:
+1. building101_gf.pgm and building101_gf.yaml: The map files of the university's first floor
+2. building101.db: A local lightweight database which stores the locations
+3. databaseControl.py: A script used to do CRUD operations to the database
+4. building101_nav2.0.py: the executable file
+
 # Setup:  
 ## Pre-requisites
 1. Ubuntu 20.04  
